@@ -1,0 +1,24 @@
+{
+  "name": "mongo-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRigaldo/mongo-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JRigaldo/mongo-api/issues"
+  },
+  "homepage": "https://github.com/JRigaldo/mongo-api#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.13",
+    "nodemon": "^1.18.10"
+  }
+}
